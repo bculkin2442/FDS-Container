@@ -15,6 +15,6 @@
 	</properties>
 
 	<modules>
-		<module>../../../Users/bjculkin/git/FDS/FDS</module>
+		<module>../../FDS/FDS</module>
 	</modules>
 </project>
